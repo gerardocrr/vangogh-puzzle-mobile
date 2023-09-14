@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\PuzzleVanGogh.styles.css",
+      "PackagePath": "staticwebassets\\PuzzleVanGogh.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_1.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_2.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_3.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_4.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_5.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_6.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_7.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_8.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\almond-blossom\\almond-blossom_9.webp",
+      "PackagePath": "staticwebassets\\img\\almond-blossom\\almond-blossom_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background1.webp",
+      "PackagePath": "staticwebassets\\img\\background1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background2.webp",
+      "PackagePath": "staticwebassets\\img\\background2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background3.webp",
+      "PackagePath": "staticwebassets\\img\\background3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background4.webp",
+      "PackagePath": "staticwebassets\\img\\background4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background5.webp",
+      "PackagePath": "staticwebassets\\img\\background5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\background6.webp",
+      "PackagePath": "staticwebassets\\img\\background6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\black.webp",
+      "PackagePath": "staticwebassets\\img\\black.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\almond-blossom.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\almond-blossom.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\potato-eaters.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\potato-eaters.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\round-prisoners.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\round-prisoners.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\self-portrait.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\self-portrait.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\skeleton-head.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\skeleton-head.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\levels\\starry-night.webp",
+      "PackagePath": "staticwebassets\\img\\levels\\starry-night.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_1.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_2.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_3.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_4.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_5.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_6.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_7.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_8.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\potato-eaters\\potato-eaters_9.webp",
+      "PackagePath": "staticwebassets\\img\\potato-eaters\\potato-eaters_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_1.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_2.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_3.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_4.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_5.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_6.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_7.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_8.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\round-prisoners\\round-prisoners_9.webp",
+      "PackagePath": "staticwebassets\\img\\round-prisoners\\round-prisoners_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_1.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_2.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_3.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_4.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_5.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_6.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_7.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_8.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\self-portrait\\self-portrait_9.webp",
+      "PackagePath": "staticwebassets\\img\\self-portrait\\self-portrait_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_1.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_2.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_3.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_4.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_5.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_6.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_7.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_8.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\skeleton-head\\skeleton-head_9.webp",
+      "PackagePath": "staticwebassets\\img\\skeleton-head\\skeleton-head_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_1.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_2.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_3.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_4.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_5.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_6.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_6.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_7.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_7.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_8.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\img\\starry-night\\starry-night_9.webp",
+      "PackagePath": "staticwebassets\\img\\starry-night\\starry-night_9.webp"
+    },
+    {
+      "Id": "C:\\Users\\gerar\\OneDrive\\Escritorio\\Nueva carpeta\\PuzzleVanGogh\\PuzzleVanGogh\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.PuzzleVanGogh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.PuzzleVanGogh.props",
+      "PackagePath": "build\\PuzzleVanGogh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.PuzzleVanGogh.props",
+      "PackagePath": "buildMultiTargeting\\PuzzleVanGogh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.PuzzleVanGogh.props",
+      "PackagePath": "buildTransitive\\PuzzleVanGogh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
