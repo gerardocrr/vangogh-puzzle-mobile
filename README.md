@@ -2,18 +2,18 @@
 
 This is a .NET MAUI Blazor project, it is created with HTML and C#.
 
-## Nugget packages used
-
-- [Toasts](https://github.com/Blazored/Toast)
-- [Modals](https://blazored.github.io/Modal/)
-- [SQLite](https://github.com/praeclarum/sqlite-net)
-
 ## Features
 
 - User registration to save progress.
 - 6 levels available.
 - Timer in each level.
 - Time recording per user.
+
+## Nugget packages used
+
+- [Toasts](https://github.com/Blazored/Toast)
+- [Modals](https://blazored.github.io/Modal/)
+- [SQLite](https://github.com/praeclarum/sqlite-net)
 
 ## Download APK
 
